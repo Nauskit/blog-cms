@@ -7,7 +7,7 @@ export function Navbar() {
             <div className="text-xl">Logo</div>
             <div className="text-lg">X</div>
           </div>
-          <ul className="flex-col text-center p-3">
+          <ul className="hidden">
             <li>
               <a href="#">Contact</a>
             </li>
